@@ -38,3 +38,15 @@ To deploy this function to Google Cloud Functions:
 ```
 0 8 * * * (America/New_York)
 ```
+
+## Resources
+- [How to analyze data using Python, Elasticsearch and Kibana](https://www.elastic.co/search-labs/blog/analyzing-data-using-python-elasticsearch-and-kibana)
+- [Keeping your Elasticsearch index current with Python and Google Cloud Platform Functions](https://www.elastic.co/search-labs/blog/keeping-your-elasticsearch-index-current-with-python-and-google-cloud-platform-functions)
+- [Asteroids - NeoWs API](https://data.nasa.gov/Space-Science/Asteroids-NeoWs-API/73uw-d9i8/about_data)
+- [What is an Elasticsearch index?](https://www.elastic.co/blog/what-is-an-elasticsearch-index)
+- [Intro to Elasticsearch](https://www.youtube.com/watch?v=avxqGSPyKOA)
+- [Beginner's Crash Course to Elastic Stack](https://www.youtube.com/watch?v=gS_nHTWZEJ8)
+- [Elasticsearch Python Client Helpers](https://elasticsearch-py.readthedocs.io/en/v8.2.1/helpers.html)
+- [GCP Cloud Scheduler](https://cloud.google.com/scheduler)
+- [GCP Cloud Functions](https://cloud.google.com/functions)
+
